@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">speech_text</string>
+    <string name="speech_prompt">Say Something</string>
+    <string name="speech_not_supported">Sorry ! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap To Speak</string>
+    <string name="tap_on_hear">Tap To Hear</string>
+</resources>
